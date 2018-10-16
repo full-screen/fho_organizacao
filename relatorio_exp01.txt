@@ -34,4 +34,4 @@ Nome: Gean Kevin Fioramonte | RA: 103155 |
 	----------------------------------------------------------
 
 
-Na memória RAM acessa o arquivo de maneira muito mais rápida. Ou seja o Disco rigido(HD) por esse motivo ele não consegue ser mais rapido que a memoria ram, ele já é usado mais para guardar arquivos.
+Na memória RAM acessa o arquivo de maneira muito mais rápida. Porque ela é uma memória Volátil, é feita justamente para processamentos rapidos. Ou seja o Disco rigido(HD) por esse motivo ele não consegue ser mais rapido que a memoria ram, ele já é usado mais para guardar arquivos.
