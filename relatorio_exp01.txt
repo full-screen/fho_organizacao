@@ -1,5 +1,5 @@
 Ralatório - Arquitetura e Organização de Computadores
-Nome: Gean Kevin Fiorsmonte | RA: 103155 |
+Nome: Gean Kevin Fioramonte | RA: 103155 |
 
 	Computador - OptiPlex7040
 	Intel Core i7-6700 CPU @ 3,40GHz / 8 threads
