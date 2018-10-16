@@ -1,0 +1,37 @@
+Ralatório - Arquitetura e Organização de Computadores
+Nome: Gean Kevin Fiorsmonte | RA: 103155 |
+
+	Computador - OptiPlex7040
+	Intel Core i7-6700 CPU @ 3,40GHz / 8 threads
+	Memoria Ram: 8GB
+	HD: Toshiba DT01ACA100 ATA: 537GB
+	O.S: Windows 7 Professional - Service Pack 1 - 64 Bits
+
+	----------------------------------------------------------
+	| 10: 	  1		      2	       3		  4		   5     |
+	| mem: | 0s      | 0s      | 0s      | 0s      | 0s      |
+	| HD:  | 0.0156s | 0.0156s | 0.0156s | 0.0156s | 0.0156s |
+	|                                                        |
+	| 100:  	  1		  2	       3		  4		   5	 |
+	| mem: | 0s      | 0s      | 0s      | 0s      | 0s      |
+	| HD:  | 0.0156s | 0.0156s | 0.0156s | 0.0156s | 0.0156s |
+	|                                                        |
+	| 1000:  	  1		  2	       3		  4		   5	 |
+	| mem: | 0s      | 0s      | 0s      | 0s      | 0s      |
+	| HD:  | 0.0156s | 0.0156s | 0.0156s | 0.0156s | 0.0156s |
+	|                                                        |
+	| 10000:    1		  2	       3		  4		   5	 |
+	| mem: | 0s      | 0s      | 0s      | 0s      | 0s      |
+	| HD:  | 0.0468s | 0.0468s | 0.0468s | 0.0468s | 0.0468s |
+	|                                                        |               
+	| 100000:   1		  2	       3	      4		   5	 |
+	| mem: | 0.0156s | 0s      | 0s      | 0s      | 0s      |
+	| HD:  | 0.4056s | 0.4056s | 0.4056s | 0.39s   | 0.39s   |
+	|                                                        |
+	| 1000000:  1		  2	       3		  4		   5	 |
+	| mem: | 0s      | 0.0156s | 0s      | 0s      | 0s      |
+	| HD:  | 3.8572s | 3.8064s | 3.8064s | 3.8084s | 3.8376s |
+	----------------------------------------------------------
+
+
+Na memória RAM acessa o arquivo de maneira muito mais rápida. Ou seja o Disco rigido(HD) por esse motivo ele não consegue ser mais rapido que a memoria ram, ele já é usado mais para guardar arquivos.
